@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Nilesh Kr. Yadav]!
+# 👋 Hello, I'm Nilesh Kr. Yadav!
 
 🎓 **Aspiring AI Scientist** | 💻 **Machine Learning Enthusiast** | 📊 **Data Science Explorer**
 
@@ -8,9 +8,9 @@
 
 I'm an aspiring AI scientist passionate about leveraging machine learning and deep learning to solve complex real-world problems.
 
-- 🎯 **Currently Working On:** [Churn Prediction]
-- 🎓 **Education:** [Junior Bachlor's of computer science engineering]
-- 🌱 **Exploring:** [Digital Image Processing]
+- 🎯 **Currently Working On:** Churn Prediction
+- 🎓 **Education:** Junior Bachlor's of computer science engineering
+- 🌱 **Exploring:** Digital Image Processing
 
 ---
 
