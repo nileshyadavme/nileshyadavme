@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm [Nilesh Kr. Yadav]!
 
 🎓 **Aspiring AI Scientist** | 💻 **Machine Learning Enthusiast** | 📊 **Data Science Explorer**
 
@@ -6,21 +6,18 @@
 
 ### About Me
 
-I'm an aspiring AI scientist passionate about leveraging machine learning and deep learning to solve complex real-world problems. I enjoy exploring the latest AI research, working on innovative projects, and contributing to the open-source community.
+I'm an aspiring AI scientist passionate about leveraging machine learning and deep learning to solve complex real-world problems.
 
-- 🎯 **Currently Working On:** [Your Current Project/Research]
-- 📚 **Learning:** [Your Learning Focus (e.g., GANs, NLP, Reinforcement Learning)]
-- 🎓 **Education:** [Your Current Education/Background]
-- 🔍 **Research Interests:** AI for Good, Computer Vision, NLP, Reinforcement Learning
-- 🌱 **Exploring:** [Technologies/Topics you're exploring]
+- 🎯 **Currently Working On:** [Churn Prediction]
+- 🎓 **Education:** [Junior Bachlor's of computer science engineering]
+- 🌱 **Exploring:** [Digital Image Processing]
 
 ---
 
 ### 🔬 Research & Projects
 
-- 🚀 **[Project Name](link):** Brief description of your project, highlighting its significance or impact.
-- 🤖 **[Research Paper/Project](link):** Brief description or link to your research paper or detailed project write-up.
-- 📊 **[Data Analysis Project](link):** A project showcasing your skills in data analysis, visualization, or predictive modeling.
+- 🚀 **[Moon PSR images Low Light Enhancement](https://github.com/ISRO-EPSR):** Low Light Enhancement of PSR region of moon using mirnet model.
+
 
 ---
 
@@ -39,31 +36,22 @@ I'm an aspiring AI scientist passionate about leveraging machine learning and de
 
 ### 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nileshyadavme&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- 📝 [Personal Blog](https://your-blog.com)
-- 📧 [Email](mailto:your-email@example.com)
-
----
-
-### 🌟 Fun Fact
-
-Did you know? [Insert an interesting AI fact or something quirky about you related to AI]
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/nileshyadavme/)
+- 📝 [Personal Blog](nileshml.hashnode.dev)
+- 📧 [Email](mailto:contact.nileshy@gmail.com)
+- 
 ---
 
 ### 📜 Latest Blog Posts
 
-- 📝 **[Your Latest Blog Title](link):** Brief description or highlight of the blog post.
-- 📝 **[Another Blog Post](link):** Brief description of what it's about.
+- 📝 **[The ultimate guide for data cleaning](https://nileshml.hashnode.dev/the-ultimate-guide-for-data-cleaning)**
+- 📝 **[Activation function for machine learning](https://nileshml.hashnode.dev/activation-functions-for-machine-learning)**
 
 ---
-
-🔍 **“In a world where AI is the future, I'm on a journey to shape that future.”**
-
-Feel free to connect, collaborate, or explore my repositories to see what I'm working on!
+**Feel free to connect, collaborate, or explore my repositories to see what I'm working on**!
