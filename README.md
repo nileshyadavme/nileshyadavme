@@ -34,7 +34,7 @@ I'm an aspiring AI scientist passionate about leveraging machine learning and de
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Statshttps://leetcode.com/u/nileshyadavme/
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nileshyadavme&show_icons=true&theme=radical)
 
@@ -43,6 +43,7 @@ I'm an aspiring AI scientist passionate about leveraging machine learning and de
 ### 📫 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nileshyadavme/)
+- ⌨️  [LeetCode](https://leetcode.com/u/nileshyadavme/)
 - 📝 [Personal Blog](nileshml.hashnode.dev)
 - 📧 [Email](mailto:contact.nileshy@gmail.com)
 - 
