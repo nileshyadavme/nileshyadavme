@@ -35,7 +35,10 @@ I'm an aspiring AI scientist passionate about leveraging machine learning and de
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### 📫 Get in Touch
+<details open>
+<summary>🔗 Socials</summary>
+<br>
+  ### 📫 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nileshyadavme/)
 - ⌨️  [LeetCode](https://leetcode.com/u/nileshyadavme/)
@@ -43,14 +46,18 @@ I'm an aspiring AI scientist passionate about leveraging machine learning and de
 - 📧 [Email](mailto:contact.nileshy@gmail.com)
 - 
 ---
+</details>
 
+<details open>
+<summary> 📜Blogs Posts Here !</summary>
+<br>
 ### 📜 Latest Blog Posts
 
 - 📝 **[The ultimate guide for data cleaning](https://nileshml.hashnode.dev/the-ultimate-guide-for-data-cleaning)**
 - 📝 **[Activation function for machine learning](https://nileshml.hashnode.dev/activation-functions-for-machine-learning)**
 
 ---
----
+</details>
 <details open>
 <summary>Want to know more</summary>
 <br>
