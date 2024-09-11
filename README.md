@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQFJ-JWQiOyZ8g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726059864192?e=1731542400&v=beta&t=CQ-8lyzwfzbVyF3SMSN2xS4CkAyER9th-o6qIwg4CEM" />
-</p>
+![banner](https://media.licdn.com/dms/image/v2/D5616AQFJ-JWQiOyZ8g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726059864192?e=1731542400&v=beta&t=CQ-8lyzwfzbVyF3SMSN2xS4CkAyER9th-o6qIwg4CEM)
 # 👋 Hello, I'm Nilesh Kr. Yadav!
 
 🎓 **Aspiring AI Scientist** | 💻 **Machine Learning Enthusiast** | 📊 **Data Science Explorer**
@@ -37,9 +35,9 @@ I'm an aspiring AI scientist passionate about leveraging machine learning and de
 
 <details open>
 <summary>🔗 Socials</summary>
-<br>
-  ### 📫 Get in Touch
 
+  <h3> 📫 Get in Touch</h3>
+  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nileshyadavme/)
 - ⌨️  [LeetCode](https://leetcode.com/u/nileshyadavme/)
 - 📝 [Personal Blog](nileshml.hashnode.dev)
@@ -50,7 +48,7 @@ I'm an aspiring AI scientist passionate about leveraging machine learning and de
 
 <details open>
 <summary> 📜Blogs Posts Here !</summary>
-<br>
+  
 ### 📜 Latest Blog Posts
 
 - 📝 **[The ultimate guide for data cleaning](https://nileshml.hashnode.dev/the-ultimate-guide-for-data-cleaning)**
@@ -67,4 +65,4 @@ I'm an aspiring AI scientist passionate about leveraging machine learning and de
 
 ---
 </details>
-**Feel free to connect, collaborate, or explore my repositories to see what I'm working on**!
+**Feel free to connect, collaborate, or explore my repositories to see what I'm working on**
