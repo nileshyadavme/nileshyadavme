@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQFJ-JWQiOyZ8g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726059864192?e=1731542400&v=beta&t=CQ-8lyzwfzbVyF3SMSN2xS4CkAyER9th-o6qIwg4CEM" />
+</p>
 # 👋 Hello, I'm Nilesh Kr. Yadav!
 
 🎓 **Aspiring AI Scientist** | 💻 **Machine Learning Enthusiast** | 📊 **Data Science Explorer**
@@ -32,14 +35,6 @@ I'm an aspiring AI scientist passionate about leveraging machine learning and de
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nileshyadavme&show_icons=true&theme=radical)
-
----
-
 ### 📫 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nileshyadavme/)
@@ -55,4 +50,14 @@ I'm an aspiring AI scientist passionate about leveraging machine learning and de
 - 📝 **[Activation function for machine learning](https://nileshml.hashnode.dev/activation-functions-for-machine-learning)**
 
 ---
+---
+<details open>
+<summary>Want to know more</summary>
+<br>
+### 📈 GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nileshyadavme&show_icons=true&theme=radical)
+
+---
+</details>
 **Feel free to connect, collaborate, or explore my repositories to see what I'm working on**!
