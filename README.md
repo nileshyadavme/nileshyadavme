@@ -59,7 +59,7 @@ I'm an aspiring AI scientist passionate about leveraging machine learning and de
 </details>
 <details open>
 <summary>Want to know more</summary>
-<br>
+  
 ### 📈 GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nileshyadavme&show_icons=true&theme=radical)
