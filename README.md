@@ -58,7 +58,7 @@ I'm an aspiring AI scientist passionate about leveraging machine learning and de
 ---
 </details>
 <details open>
-<summary>Want to know more</summary>
+<summary>🗿Want to know more</summary>
   
 ### 📈 GitHub Stats
 
@@ -66,4 +66,5 @@ I'm an aspiring AI scientist passionate about leveraging machine learning and de
 
 ---
 </details>
+
 **Feel free to connect, collaborate, or explore my repositories to see what I'm working on**
