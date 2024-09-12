@@ -5,6 +5,8 @@
 
 ---
 
+<img align="right" alt="Coding" width="250" height="250" src="https://media.tenor.com/cgrfmmbqJ-UAAAAi/faze-clan-faze.gif" />
+
 ### About Me
 
 I'm an aspiring AI scientist passionate about leveraging machine learning and deep learning to solve complex real-world problems.
@@ -13,7 +15,6 @@ I'm an aspiring AI scientist passionate about leveraging machine learning and de
 - 🎓 **Education:** Junior Bachlor's of computer science engineering
 - 🌱 **Exploring:** Digital Image Processing
 
----
 
 ### 🔬 Research & Projects
 
