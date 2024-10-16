@@ -43,7 +43,6 @@ I'm an aspiring AI scientist passionate about leveraging machine learning and de
 - ⌨️  [LeetCode](https://leetcode.com/u/nileshyadavme/)
 - 📝 [Personal Blog](nileshml.hashnode.dev)
 - 📧 [Email](mailto:contact.nileshy@gmail.com)
-- 
 ---
 </details>
 
