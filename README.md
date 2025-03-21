@@ -1,4 +1,4 @@
-![banner](https://media.licdn.com/dms/image/v2/D5616AQFJ-JWQiOyZ8g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726059864192?e=1731542400&v=beta&t=CQ-8lyzwfzbVyF3SMSN2xS4CkAyER9th-o6qIwg4CEM)
+![banner](https://media.licdn.com/dms/image/v2/D5616AQFRUorb8pe1UQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735458928744?e=1747872000&v=beta&t=R5mLKRlq1ujfFBC_lrbp4KeQH-JZoWC8puNMJ1mu65o)
 # 👋 Hello, I'm Nilesh Kr. Yadav!
 
 🎓 **Aspiring AI Scientist** | 💻 **Machine Learning Enthusiast** | 📊 **Data Science Explorer**
