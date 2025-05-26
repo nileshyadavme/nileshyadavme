@@ -18,7 +18,7 @@ I'm an aspiring AI scientist passionate about leveraging machine learning and de
 
 ### 🔬 Research & Projects
 
-- 🚀 **[Moon PSR images Low Light Enhancement](https://github.com/ISRO-EPSR):** Low Light Enhancement of PSR region of moon using mirnet model.
+- 🚀 **[Nurogami Compiler](https://github.com/nileshyadavme/nurogami):** A custom C++ compiler built with modern C++26 standards.
 
 
 ---
