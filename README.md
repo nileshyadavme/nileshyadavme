@@ -1,4 +1,4 @@
-![banner](https://media.licdn.com/dms/image/v2/D5616AQFRUorb8pe1UQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735458928744?e=1747872000&v=beta&t=R5mLKRlq1ujfFBC_lrbp4KeQH-JZoWC8puNMJ1mu65o)
+![banner](https://github.com/nileshyadavme/nileshyadavme/blob/main/1735458928744.jpeg?raw=true)
 # 👋 Hello, I'm Nilesh Kr. Yadav!
 
 🎓 **Aspiring AI Scientist** | 💻 **Machine Learning Enthusiast** | 📊 **Data Science Explorer**
