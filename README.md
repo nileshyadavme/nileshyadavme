@@ -11,14 +11,15 @@
 
 I'm an aspiring AI scientist passionate about leveraging machine learning and deep learning to solve complex real-world problems.
 
-- 🎯 **Currently Working On:** Churn Prediction
+- 🎯 **Currently Working On:** Custom C++ compiler from scratch
 - 🎓 **Education:** Junior Bachlor's of computer science engineering
 - 🌱 **Exploring:** Digital Image Processing
 
 
 ### 🔬 Research & Projects
-
 - 🚀 **[Nurogami Compiler](https://github.com/nileshyadavme/nurogami):** A custom C++ compiler built with modern C++26 standards.
+- 🚀 **[editabled Collabrative Platform](https://github.com/nileshyadavme/editabled):** A modern web-based platform designed to help engineering teams document, diagram, and collaborate more effectively.
+- 🚀 **[NanoDB](https://github.com/nileshyadavme/NanoDB):** NanoDB is a miniature SQL database system built from scratch in C++. It supports basic SQL operations like CREATE TABLE, INSERT, and SELECT.
 
 
 ---
